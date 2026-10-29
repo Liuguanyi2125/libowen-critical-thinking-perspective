@@ -1,0 +1,4 @@
+interface:
+  display_name: "libowen-critical-thinking-perspective"
+  short_description: "批判性思维看问题：用李博闻课程的方法拆一句话、一个现象、一个提问、一个人的处境或一篇稿子"
+  default_prompt: "用 $libowen-critical-thinking-perspective 帮我拆一下这句话：「吃得苦中苦，方为人上人」。"
